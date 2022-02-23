@@ -1,7 +1,9 @@
+// Import Libraries
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+
+// Importing Components 
+import App from './component/App/App';
 
 
 ReactDOM.render(
